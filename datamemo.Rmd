@@ -1,0 +1,32 @@
+---
+title: "data_memo"
+author: "Katlyn Shaw"
+date: "10/2/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Dataset Overview
+
+I plan on working with data about bike share program use frequency in Seoul, South Korea from January 12, 2017 through November 30, 2018. 
+
+I have obtained my data from: https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
+and the original data source is: http://data.seoul.go.kr/
+
+In the dataset, there are 8,760 observations and 14 predictors. The attributes I'll be working with include date, # of rented bikes per hour, various weather attributes, and whether or not the day is a holiday.
+
+There is no missing data in the dataset. In response to this, I'll expand exploration in other areas of the project.
+
+
+## Overview of research questions
+
+I don't have a definitive research question in mind yet, I hope to discover something interesting during the exploration stage and working from there. I'm interested in learning what the perfect conditions (weather) for bike share rentals are and the likelihood that an individual will rent a bike share given any combination of conditions. These questions will be best answered using a regression approach. I think that wind speed will be a useful predictor as I am less inclined to bike when its especially windy. The goal of my model should be predictive because I want to predict which combination of weather conditions contributes to most frequent bike share use.
+
+## Project timeline
+
+week 1: 
+
+
