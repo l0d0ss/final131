@@ -27,6 +27,12 @@ I don't have a definitive research question in mind yet, I hope to discover some
 
 ## Project timeline
 
-week 1: 
+week 1: data memo
+week 2: data exploration + choose research question(s)
+weeks 3-6: model building/fitting/correcting
+weeks 7-8: conclusions+writing project
 
 
+## Questions?
+
+I honestly don't understand much about machine learning so I don't know what is going to be difficult yet.
